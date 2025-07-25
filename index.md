@@ -6,4 +6,4 @@ in_menu: true
 # Let's Retro Game
 
 
-Jouez  avec deux générations   [brico solidaire](bricoso.pdf) 
+Jouez  avec deux générations   [brico fait maison](Bricoso.html) 
