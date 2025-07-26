@@ -1,3 +1,8 @@
+---
+title: "transformez votre ancien PC"
+order: 1
+in_menu: true
+---
 <!DOCTYPE html>
 <html>
 <head>
@@ -72,4 +77,4 @@ jour de jeux Amiga en whdload (des mises a jour sont mises ligne
 actuellement  )</p>
 <pre class="western"></pre>
 </body>
-</html>
+</html> 
