@@ -6,4 +6,4 @@ in_menu: true
 # Let's Retro Game
 
 
-Jouez  avec deux générations   [brico fait maison](Bricoso.html) 
+Jouez aux jeux videos avec son pere. avec de la curiosite    [brico fait maison](Bricoso.html) 
