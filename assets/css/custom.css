@@ -1,3 +1,23 @@
 :root {
     --couleur-primaire : #2a6442;
+BODY { margin-left: 50px}
+.liste { color: #000000; font-size : 20px ; text-decoration: none ; font-weight: normal}
+.liste:first-letter { color: #015 ; font-weight: bold; font-style: oblique;}
+A:first-letter, P:first-letter { color: #510 ; font-weight: bold; font-style: oblique;}
+A:hover {color: #f00 ; background-color : #0ff }
+TD { text-align : center}
+PRE { margin-bottom : 0px; margin-top : 0px ; color: #000000; font-size : 15px; text-decoration : none ; font-weight: normal; }
+PRE:first-letter { color: #fff ; background-color: #f0f;padding:4px;padding-bottom:1px}
+OL { margin-left: 10px ; list-style-type: upper-roman;color: #990000; font-size : 32px; font-weight: bold ; margin-top : 8px ; margin-bottom : 8px; }
+OL OL { padding-left : 5px; list-style-type: upper-alpha; color: #339933; font-size : 28px; font-weight: bold }
+OL OL OL { list-style-type : decimal;color: #000099; font-size : 24px; font-weight: normal}
+OL OL OL OL { list-style-type : lower-alpha;color: #660099; font-size : 23px; font-weight: normal}
+OL OL OL OL OL { list-style-type : lower-roman; color: #996600; font-size : 22px; font-weight: bold;}
+OL:first-letter {background-color : #9ff; font-style: oblique; letter-spacing: 3px;padding:4px;padding-bottom:1px}
+OL OL:first-letter {background-color : #f9f;padding:4px;padding-bottom:1px}
+OL OL OL:first-letter {background-color : #ff9;padding:4px;padding-bottom:1px}
+OL OL OL OL:first-letter {background-color : #fff;padding:4px;padding-bottom:1px}
+P:first-line { margin-left : 10px ;}
+UL LI, FORM, P {text-align: justify; text-indent : 20px; margin : 0px ; color: #000000; font-size : 20px; text-decoration : none ; font-weight: normal}
+.titre {color: #880088; font-size : 32px; font-weight: bold ;  font-weight: bold;text-align:center}
 }
