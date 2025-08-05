@@ -1,6 +1,8 @@
 :root {
     --couleur-primaire : #2a6442;
-BODY { margin-left: 50px}
+}
+
+    BODY { margin-left: 50px}
 .liste { color: #000000; font-size : 20px ; text-decoration: none ; font-weight: normal}
 .liste:first-letter { color: #015 ; font-weight: bold; font-style: oblique;}
 A:first-letter, P:first-letter { color: #510 ; font-weight: bold; font-style: oblique;}
@@ -20,4 +22,3 @@ OL OL OL OL:first-letter {background-color : #fff;padding:4px;padding-bottom:1px
 P:first-line { margin-left : 10px ;}
 UL LI, FORM, P {text-align: justify; text-indent : 20px; margin : 0px ; color: #000000; font-size : 20px; text-decoration : none ; font-weight: normal}
 .titre {color: #880088; font-size : 32px; font-weight: bold ;  font-weight: bold;text-align:center}
-}
