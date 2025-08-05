@@ -1,3 +1,8 @@
+---
+title: "Aprenez a transformez votre ancien PC en console de jeux"
+order: 1
+in_menu: true
+---
 <!DOCTYPE html>
 <html>
 <head>
@@ -52,7 +57,7 @@ d’investissement , et on peu encore améliorer ce qui fonctionne.</p>
 </p>
 <p>Let’s Retro 
 </p>
-<p>J’ai voulu testé  BATOCERA et RECALBOX . Ce sont des stations
+<p>J’ai testé  BATOCERA . Ce sont des stations
 d’émulation, qui s’installent sur une simple clé USB. C’est
 des versions téléchargeables gratuitement  ( ) 
 </p>
@@ -71,5 +76,7 @@ connaissances a ce sujet
 jour de jeux Amiga en whdload (des mises a jour sont mises ligne
 actuellement  )</p>
 <pre class="western"></pre>
+ <a href='mailto:xcipm6jmo"+aro+"mozmail.com"'>Ecrivez-moi.</a>
+ 
 </body>
-</html>
+</html> 
