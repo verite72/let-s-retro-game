@@ -10,12 +10,7 @@ in_menu: true
 <html>
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-<link rel="stylesheet" href="/let-s-retro-game/assets/css/styles.css" />
-  <link rel="stylesheet" href="/let-s-retro-game/assets/css/custom.css" />
-  <title>
-     1 2 3 
-      
-  </title>	
+
 	<meta name="generator" content="LibreOffice 25.2.3.2 (Linux)"/>
 	<meta name="author" content="Philippe Vérité"/>
 	<meta name="created" content="2025-07-25T18:33:27.188394763"/>
@@ -25,11 +20,10 @@ in_menu: true
 		pre.cjk { font-family: "NSimSun", monospace }
 	</style>
 </head>
-<link type="application/atom+xml" rel="alternate" href="https://ynote.github.io/petits-bouts-de-code/feed.xml" title="let-s-retro-game">
+<link type="application/atom+xml" rel="alternate" href="https://ynote.github.io/let-s-retro-game/feed.xml" title="let-s-retro-game">
 
 <body lang="fr-FR" dir="ltr"><p align="center" style="line-height: 100%; margin-top: 0.42cm; page-break-after: avoid">
-<font face="Liberation Sans, sans-serif"><font size="6" style="font-size: 28pt"><b>Aprenez
-a transformez votre ancien PC en console de jeux</b></font></font></p>
+<font face="Liberation Sans, sans-serif"><font size="6" style="font-size: 28pt"><b>let-s-retro-game</b></font></font></p>
 <p><br/>
 <br/>
 
