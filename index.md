@@ -10,4 +10,7 @@ Jouez aux jeux vidéos avec son père. C est un peu de pédagogie et surtout du 
 Donc soyons positif, tout n'est pas perdu , déjà il me reste a écouter et être moi même et papa peut être  !
  
 
-avec de la curiosite    [brico fait maison](Bricoso.html) 
+Pourquoi ne pas faire decouvrir votre premiere machine retro dans les repairs cafés de votre région :
+[exemple site 1] (https://newick.github.io/repaircafejacouclapiers/)
+
+[exemple site 2] (https://www.lerabelais.org/agenda/bricosolidaire/) 
