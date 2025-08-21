@@ -76,8 +76,7 @@ et qui parfois sont des tubes qui ont rendu la console célèbre</p>
 <p> Donc simplement jouer sans internet permet de gagner en
 simplicité d’installation.</p>
 <p>Vous pourrez ainsi découvrir les ordinateurs et aborder la
-capacité des ordinateurs depuis les années 70, et améliorer vos
-connaissances a ce sujet 
+capacité des ordinateurs depuis les années 80
 </p>
 <p>Un conseil testez, Lemmings, Populous2, et les dernières mises a
 jour de jeux Amiga en whdload (des mises a jour sont mises ligne
