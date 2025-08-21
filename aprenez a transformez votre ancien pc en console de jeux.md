@@ -24,7 +24,7 @@ a transformez votre ancien PC en console de jeux</b></font></font></p>
 <br/>
 
 </p>
-<p>Objectif : Comment passer un moment ensemble, échanger avec son
+<p>Comment passer un moment ensemble, échanger avec son
 père pendant une partie de  jeux vidéo  . Apprendre ce qui a fait
 plaisir a ton père quand il avait ton age , Et ce n’est plus si
 compliquer grace a internet et au téléchargement.</p>
@@ -78,5 +78,15 @@ actuellement  )</p>
 <pre class="western"></pre>
  <a href='mailto:xcipm6jmo"+aro+"mozmail.com"'>Ecrivez-moi.</a>
  
-</body>
+
+<footer>
+  <div class="container">
+    Typo <a href="http://www.luciole-vision.com">Luciole</a>
+  </div>
+Vous avez envie de faire votre propre page Web
+quelques exemples sympas :
+
+(view-source:https://lahminewski.github.io/note/numerique.html)
+
+</footer></body>
 </html> 
