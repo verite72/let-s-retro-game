@@ -3,6 +3,9 @@ title: "transformez votre ancien PC"
 order: 1
 in_menu: true
 ---
+1. c'est un fichier HTML
+2. c'est une ebauche
+3. ca n'explique pas tout mais grace au Markdown c'est plus simple
 <!DOCTYPE html>
 <html>
 <head>
