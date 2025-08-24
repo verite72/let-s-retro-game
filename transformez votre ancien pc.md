@@ -3,40 +3,17 @@ title: "transformez votre ancien PC"
 order: 1
 in_menu: true
 ---
-1. c'est un fichier HTML
-2. c'est une ebauche
-3. ca n'explique pas tout mais grace au Markdown c'est plus simple
-<!DOCTYPE html>
-<html>
-<head>
-	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+# Let-s-retro-game
 
-	<meta name="generator" content="LibreOffice 25.2.3.2 (Linux)"/>
-	<meta name="author" content="Philippe Vérité"/>
-	<meta name="created" content="2025-07-25T18:33:27.188394763"/>
-	<meta name="changedby" content="Philippe Vérité"/>
-	<meta name="changed" content="2025-07-25T19:17:26.692753932"/>
-	<style type="text/css">
-		pre.cjk { font-family: "NSimSun", monospace }
-	</style>
-</head>
-<link type="application/atom+xml" rel="alternate" href="https://ynote.github.io/let-s-retro-game/feed.xml" title="let-s-retro-game">
+## Objectif : Comment partager un moment de jeux vidéos
+ échanger avec son père pendant une partie de  jeux vidéo  . Apprendre comme lui quand il avait ton age ,  ce n’est pas si compliquer grace a internet et au téléchargement.</p>
 
-<body lang="fr-FR" dir="ltr"><p align="center" style="line-height: 100%; margin-top: 0.42cm; page-break-after: avoid">
-<font face="Liberation Sans, sans-serif"><font size="6" style="font-size: 28pt"><b>let-s-retro-game</b></font></font></p>
-<p><br/>
-<br/>
+## Le but
 
-</p>
-<p>Objectif : Comment passer un moment ensemble, échanger avec son
-père pendant une partie de  jeux vidéo  . Apprendre ce qui a fait
-plaisir a ton père quand il avait ton age , Et ce n’est plus si
-compliquer grace a internet et au téléchargement.</p>
-<p>Le but</p>
-<p>Il y a aujourd’hui sur internet des systèmes qui permettent de
+Il y a aujourd’hui sur internet des systèmes qui permettent de
 créér gratuitement une configuration qui permet de retrouver des
-consoles de jeux qui ont plus de 20 ans. Batocera ,Recallbox, ou
-Retropie.</p>
+consoles de jeux qui ont plus de 20 ans. Batocera ,Recalbox, ou
+Retropie.
 <p> Certains jeux tombent dans le domaine public et d’autres sont
 téléchargeables pour  profiter et de découvrir des créations
 gratuitement. On parle de jeux freeware (logiciels libres)  ou
@@ -55,12 +32,9 @@ d’émulation,
 </p>
 <p>En faire une machine qui demande un peu de patience et
 d’investissement , et on peu encore améliorer ce qui fonctionne.</p>
-<p><br/>
-<br/>
 
-</p>
-<p>Let’s Retro 
-</p>
+## Let’s Retro 
+
 <p>J’ai voulu testé  BATOCERA et RECALBOX . Ce sont des stations
 d’émulation, qui s’installent sur une simple clé USB. C’est
 des versions téléchargeables gratuitement  ( ) 
@@ -75,10 +49,5 @@ simplicité d’installation.</p>
 <p>Vous pourrez ainsi découvrir les ordinateurs et aborder la
 capacité des ordinateurs depuis les années 80
 </p>
-<p>Un conseil testez, Lemmings, Populous2, et les dernières mises a
-jour de jeux Amiga en whdload (des mises a jour sont mises ligne
-actuellement  )</p>
-<pre class="western"></pre>
-
-</body>
-</html> 
+<p>Mes favoris : Oh no more Lemmings, Populous2, et les mises de
+jeux Amiga en whdload </p> 
