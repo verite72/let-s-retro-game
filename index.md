@@ -12,6 +12,6 @@ Donc soyons positif, tout n'est pas perdu , déjà il me reste a écouter et êt
 
 Pourquoi ne pas faire découvrir votre première machine retro dans les repairs-cafés de votre région :
 
-[exemple site 1](https://newick.github.io/repaircafejacouclapiers/)
+[repaircafejacouclapiers](https://newick.github.io/repaircafejacouclapiers/)
 
-[exemple site 2](https://www.lerabelais.org/agenda/bricosolidaire/) 
+[bricosolidaire](https://www.lerabelais.org/agenda/bricosolidaire/) 
