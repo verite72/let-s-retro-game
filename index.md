@@ -16,16 +16,3 @@ Pourquoi ne pas faire découvrir votre première machine retro dans les repairs-
 
 [bricosolidaire](https://www.lerabelais.org/agenda/bricosolidaire/) 
    
-<html>
-            <head>
-                <script src="squeak.js"></script>
-                <script>
-                    window.onload = function() {
-                        SqueakJS.runSqueak("https://squeak.js.org/scratch/", sqCanvas, { /*put options here*/ });
-                    }
-                </script>
-            </head>
-            <body>
-                <canvas id="sqCanvas"></canvas>
-            </body>
-        </html> 
