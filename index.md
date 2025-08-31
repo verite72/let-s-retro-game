@@ -15,3 +15,16 @@ Pourquoi ne pas faire découvrir votre première machine retro dans les repairs-
 [repaircafejacouclapiers](https://newick.github.io/repaircafejacouclapiers/)
 
 [bricosolidaire](https://www.lerabelais.org/agenda/bricosolidaire/) 
+   <html>
+            <head>
+                <script src="squeak.js"></script>
+                <script>
+                    window.onload = function() {
+                        SqueakJS.runSqueak("my.image", sqCanvas, { /*put options here*/ });
+                    }
+                </script>
+            </head>
+            <body>
+                <canvas id="sqCanvas"></canvas>
+            </body>
+        </html> 
