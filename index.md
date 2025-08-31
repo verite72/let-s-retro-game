@@ -15,7 +15,8 @@ Pourquoi ne pas faire découvrir votre première machine retro dans les repairs-
 [repaircafejacouclapiers](https://newick.github.io/repaircafejacouclapiers/)
 
 [bricosolidaire](https://www.lerabelais.org/agenda/bricosolidaire/) 
-      <html>
+   
+<html>
             <head>
                 <script src="squeak.js"></script>
                 <script>
