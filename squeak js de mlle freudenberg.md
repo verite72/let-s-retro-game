@@ -1,3 +1,8 @@
+---
+title: "squeak JS de Mlle Freudenberg"
+order: 1
+in_menu: true
+---
 <!DOCTYPE html>
 <html lang="fr">
 <!-- scribouilli-git-hash: 51411af -->
@@ -12,4 +17,4 @@
             <body>
                 <canvas id="sqCanvas"></canvas>
             </body>
-        </html>
+        </html> 
