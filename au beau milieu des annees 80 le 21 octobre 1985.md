@@ -7,7 +7,12 @@ in_menu: true
 
 C'est aussi le four-tout , de ce qui est disponible , pour apprendre a etre un technicien réseaux : (tout OS confondus)
 
-http://lalitte.com/anciensite/
+https://lalitte.com/anciensite/
 
-http://www.linuxmaine.org
+https://www.linuxmaine.org
+
 https://librecours.net/courses/dev1/ 
+
+Pour le retro , mon préféré c'est. 
+
+https://korben.info/ 
