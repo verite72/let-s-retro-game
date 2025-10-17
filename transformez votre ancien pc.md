@@ -12,23 +12,26 @@ in_menu: true
 ## Le but
 
 Il y a aujourd’hui sur internet des systèmes qui permettent de
-créér gratuitement une configuration qui permet de retrouver des
+créer gratuitement une configuration qui permet de retrouver des
 consoles de jeux qui ont plus de 20 ans. Batocera ,Recalbox 
 
-<p> Certains jeux tombent dans le domaine public et d’autres sont
+Certains jeux tombent dans le domaine public et d’autres sont
 téléchargeables pour  profiter et de découvrir des créations
-gratuitement. On parle de jeux freeware (logiciels libres)  ou
-shareware. Cela permet déjà de passr quelques bonnes heures de jeux
+gratuitement. ici, on parle de jeux :
+ 1. Freeware (logiciels libres, on peut donner a l'auteur).
+ 2. Shareware (rétributions demandée sinon version limitée)  
+
+Cela permet  de passer quelques bonnes heures de jeux
 sur un pc qui n’est pas fait pour le jeux. Donc il faudra rajouter
 une manette (USB ) et un casque audio. 
-</p>
-Ces systèmes intègrés, permettent de choisir son emulateur:
-MAME, NES, Gamegear, Atari , et d’autres plus spécifiques FS-UAE
+
+Ces systèmes intégrés, permettent de choisir son émulateur:
+MAME, NES, SEGA, Atari , et d’autres plus spécifiques FS-UAE
 (pour les Amigaistes), SNES. 
 des plus puissants Playstation…mais je ne suis pas fan      
                      
-Choisir&nbsp;: si vous avez un PC, miniPc, ou un raspberry, et
-meme une console que vous souhaitez reconfigurer en station
+Choisir&nbsp;: si vous avez un PC, miniPc, ou Raspi, et
+même une console que vous souhaitez reconfigurer en station
 d’émulation.   
 
 En faire une machine qui demande un peu de patience et
@@ -37,7 +40,7 @@ d’investissement , et on peu encore améliorer ce qui fonctionne.
 ## Let’s Retro 
 
 J’ai voulu testé  BATOCERA . Ce une station
-d’émulation, qui est configurable selon  la machine, sa version ,ou meme un jeux en particulier ( pour configurer le joystick )
+d’émulation, qui est configurable selon  la machine, sa version ,ou même un jeux en particulier ( pour configurer le joystick )
 ils s’installent sur une simple clé USB. 
 ***C’est des versions téléchargeables gratuitement***
  
@@ -50,10 +53,10 @@ la différence  entre le jeu d’origine et celui que l’on lance en
 ***des classiques comme Mario pour la Super Nintendo***
 
 Donc simplement jouer sans internet mais il y a la possibilité de jouer connecter en ligne
-cependant je prefere ne pas l'utiliser. 
-Jouer aux jeux de plateaux , de role et shoot'em'up c'est la classe du son et de l'image jusqu'au soin du détail avec les bezels et les écrans cathodiques qui donnent des images en 'forme d'oreiller'.
+cependant je ne  l'utilise pas. 
+Jouer aux jeux de plateaux , de réflexion et shoot'em'up c'est la classe avec du son et de l'image (d'ailleurs je n'arrive pas a avoir du son) jusqu'au soin du détail avec les bezels et les écrans cathodiques qui donnent des images en 'forme d'oreiller'.
 
-Les chargements de jeux en whdload (mises en format 'disque dur') des jeux qui étaient installées sur disquettes prenaient trop de temps au chargement (plusieurs minutes) .
+Les chargements de jeux en whdload (mises en format 'disque dur') des jeux qui étaient installées sur disquettes et prenaient trop de temps au chargement (plusieurs minutes) .
 
 Vous pourrez ainsi découvrir les ordinateurs et aborder la
 capacité des ordinateurs depuis les années 80. qui avaient une longueur d'avance car il y avait de la concurrence entre les constructeurs et pas de crise économique. 
