@@ -7,13 +7,13 @@ in_menu: true
 =====================
 
 ## Objectif : Comment partager un moment de jeux vidéos
- échanger avec son père pendant une partie de  jeux vidéo  . Apprendre comme lui quand il avait ton age ,  ce n’est pas si compliquer grace a internet et au téléchargement.</p>
+ échanger avec son père pendant une partie de  jeux vidéo,  ce n’est pas si compliquer grace a Batocera.</p>
 
 ## Le but
 
 Il y a aujourd’hui sur internet des systèmes qui permettent de
 créer gratuitement une configuration qui permet de retrouver des
-consoles de jeux qui ont plus de 20 ans. Batocera ,Recalbox 
+consoles de jeux qui ont plus de 20 ans. Batocera ,Recalbox , Libretro
 
 Certains jeux tombent dans le domaine public et d’autres sont
 téléchargeables pour  profiter et de découvrir des créations
@@ -39,8 +39,8 @@ d’investissement , et on peu encore améliorer ce qui fonctionne.
 
 ## Let’s Retro 
 
-J’ai voulu testé  BATOCERA . Ce une station
-d’émulation, qui est configurable selon  la machine, sa version ,ou même un jeux en particulier ( pour configurer le joystick )
+J’ai testé  BATOCERA . C est une station
+d’émulation, qui est configuré selon  la machine émulée, sa version ,ou même un jeux en particulier ( pour configurer le joystick )
 ils s’installent sur une simple clé USB. 
 ***C’est des versions téléchargeables gratuitement***
  
