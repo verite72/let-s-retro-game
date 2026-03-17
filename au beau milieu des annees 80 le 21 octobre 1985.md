@@ -15,10 +15,10 @@ On comparait leur vitesse de calculs en Flops et en Mips.
 ce que j'ai pu voir ce sont stations Next. (image1.jpg)en 1993 un magasin en vendait au Mans : ICL
 si je me souviens. Son système d'exploitation multi-tâche etait avant-gardiste et fait pour les développeurs.
 
-A Angers , ou _Packard Bell_ et _Bull_ avait leur siège régional. Des techniciens informatiques ont été formés par les centre de formation en collaboration et avec les ecoles d'ingénieurs et de formations supérieures.
+A Angers dan le Maine-et Loire, ou _Packard Bell_ et ~~_Bull_~~ avait leur siège régional. Des techniciens informatiques ont été formés par les centre de formation en collaboration et avec les ecoles d'ingénieurs et de formations supérieures.
 
 Les femmes et l'informatique Mme Allen (USA) 
 
-Et aujourd'hui
+16/03
  
 https://www.ouest-france.fr/economie/entreprises/les-supercalculateurs-les-plus-puissants-deurope-sont-fabriques-a-angers-voici-comment-0f55d4c8-f14c-11f0-977d-9ddad21d78c7 
