@@ -3,60 +3,31 @@ title: "transformez votre ancien PC"
 order: 2
 in_menu: true
 ---
-# Let-s-retro-game
-=====================
+Let-s-retro-game
+=============
 
-## Objectif : Comment partager un moment de jeux vidéos
- échanger avec son père pendant une partie de  jeux vidéo,  ce n’est pas si compliquer grace a Batocera.</p>
+# Emulation station 
 
-## Le but
+J’ai testé  BATOCERA . C est une station d’émulation, qui est configuré selon  la machine émulée, sa version ,
+on peut même configurer un jeux en particulier ( pour configurer le joystick )
 
-Il y a aujourd’hui sur internet des systèmes qui permettent de
-créer gratuitement une configuration qui permet de retrouver des
-consoles de jeux qui ont plus de 20 ans. Batocera ,Recalbox , Libretro
+on installe sur une simple clé USB. 
 
-Certains jeux tombent dans le domaine public et d’autres sont
-téléchargeables pour  profiter et de découvrir des créations
-gratuitement. ici, on parle de jeux :
- 1. Freeware (logiciels libres, on peut donner a l'auteur).
- 2. Shareware (rétributions demandée sinon version limitée)  
-
-Cela permet  de passer quelques bonnes heures de jeux
-sur un pc qui n’est pas fait pour le jeux. Donc il faudra rajouter
-une manette (USB ) et un casque audio. 
-
-Ces systèmes intégrés, permettent de choisir son émulateur:
-MAME, NES, SEGA, Atari , et d’autres plus spécifiques FS-UAE
-(pour les Amigaistes), SNES. 
-des plus puissants Playstation…mais je ne suis pas fan      
-                     
-Choisir&nbsp;: si vous avez un PC, miniPc, ou Raspi, et
-même une console que vous souhaitez reconfigurer en station
-d’émulation.   
-
-En faire une machine qui demande un peu de patience et
-d’investissement , et on peu encore améliorer ce qui fonctionne.
-
-## Let’s Retro 
-
-J’ai testé  BATOCERA . C est une station
-d’émulation, qui est configuré selon  la machine émulée, sa version ,ou même un jeux en particulier ( pour configurer le joystick )
-ils s’installent sur une simple clé USB. 
-***C’est des versions téléchargeables gratuitement***
+derniere version téléchargeable
  
-
-<p> La puissance des ordis d’aujourd’hui ,par rapport aux
+ La puissance des ordis d’aujourd’hui ,par rapport aux
 Ordinosaures (moins puissants )fait que on ne voit pas
 la différence  entre le jeu d’origine et celui que l’on lance en
-émulation. Je parle des jeux  qui ont rendu la console célèbre</p>
+émulation. 
 
-***des classiques comme Mario pour la Super Nintendo***
+*Je laisse de coté les jeux dans les jeux avec les scores a battre , avec les resultats en ligne, c'est la course a qui a le plus gros score, c'est pas mon kiffe
 
-Donc simplement jouer sans internet mais il y a la possibilité de jouer connecter en ligne
-cependant je ne  l'utilise pas. 
-Jouer aux jeux de plateaux , de réflexion et shoot'em'up c'est la classe avec du son et de l'image (d'ailleurs je n'arrive pas a avoir du son) jusqu'au soin du détail avec les bezels et les écrans cathodiques qui donnent des images en 'forme d'oreiller'.
+plus des classiques comme Mario , Prince of Persia
+Donc simplement jouer  meme s il y a la possibilité de jouer connecter en ligne, ce n'est pas mon kiffe , perso,je prefere aller sur des forums a d'autres moments 
+ 
+Jouer aux jeux de plateaux , de réflexion et meme aux jeux massifs en réseaux . soin du détail avec les bezels et les écrans format 4/3 qui donnent des images 'comme a l'époque'. 
 
-Les chargements de jeux en whdload (mises en format 'disque dur') des jeux qui étaient installées sur disquettes et prenaient trop de temps au chargement (plusieurs minutes) .
 
-Vous pourrez ainsi découvrir les ordinateurs et aborder la
-capacité des ordinateurs depuis les années 80. qui avaient une longueur d'avance car il y avait de la concurrence entre les constructeurs et pas de crise économique. 
+
+Vous pourrez ainsi découvrir les ordinateurs et aborder les 
+questions techniques des ordinateurs des années 80. qui avaient une longueur d'avance sur Les Pc car il y avait de la concurrence entre les constructeurs, comme l'Archimede. 
