@@ -12,7 +12,7 @@ Une époque propice aux progrès du matériel informatique et qui a évoluée ju
 les grosses bécanes , les ingénieurs qui ont travaillé dessus, sur un supercalculateur , certains français (non connus) ont participé a des projets
 On comparait leur vitesse de calculs en Flops et en Mips.
 ...
-ce que j'ai pu voir ce sont des stations Next. (image1.jpg)en 1993 un magasin en vendait au Mans : ICL
+ce que j'ai pu voir ce sont des stations Next. (image1.jpg)en 1993 un magasin en possédait au Mans : Sté. SIGIRE 
 si je me souviens. Son système d'exploitation multi-tâche etait avant-gardiste, sobre
 
 A Angers dan le Maine-et-Loire, ou _Packard Bell_ et _Bull_ avait leur siège. 
