@@ -3,8 +3,7 @@ title: "transformez votre ancien PC"
 order: 2
 in_menu: true
 ---
-Let-s-retro-game
-=============
+<p class="encart"> Let s RETRO GAME </p> 
 
 # Emulation station 
 
