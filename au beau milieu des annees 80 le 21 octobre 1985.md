@@ -1,7 +1,7 @@
 ---
 title: "au beau milieu des années 80 le 21 Octobre 1985"
 order: 3
-in_menu: true
+in_menu: false
 ---
 Une époque propice aux progrès du matériel informatique et des premiers réseaux
 

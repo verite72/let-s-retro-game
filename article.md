@@ -1,6 +1,6 @@
 ---
 title: "Article"
-order: 5
+order: 1
 in_menu: true
 ---
 <aside>
