@@ -7,12 +7,17 @@ in_menu: true
 
 # Emulation station 
 
-J’ai testé  BATOCERA . C est une station d’émulation, qui est configuré selon  la machine émulée, sa version ,
-on peut même configurer un jeux en particulier ( pour configurer le joystick )
+J’ai testé  BATOCERA . C est une station d’émulation, qui est configuré selon  la machine émulée, sa version...
+- on télécharge la derniere version 
+- on 'grave' l'image sur une simple clé USB. (voir les caractéristiques matériels requises)
+- on lance et on met a jour une fois le wifi configuré et connecté, ca prend quelques minutes a quelques heures selon les mises a jour (partielles, completes)
+- on ajoute des ROMS de la machine(s) qui ont chacun un copyright , il faut les TELECHARGER SUR LES SITES DES FOURNISSEURS ou verifier leur source ou leur authenticité (clé md5sum) 
 
-on installe sur une simple clé USB. 
+- on peut configurer la console ou le jeux en particulier ( pour configurer le joystick )
 
-derniere version téléchargeable
+
+
+
  
  La puissance des ordis d’aujourd’hui ,par rapport aux
 Ordinosaures (moins puissants )fait que on ne voit pas
