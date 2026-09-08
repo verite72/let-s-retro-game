@@ -15,7 +15,14 @@ On comparait leur vitesse de calculs en Flops et en Mips.
 ce que j'ai pu voir ce sont des stations Next. (image1.jpg)en 1993 un magasin en possédait au Mans : Sté. SIGIRE 
 si je me souviens. Son système d'exploitation multi-tâche etait avant-gardiste, sobre
 
-A Angers dan le Maine-et-Loire, ou _Packard Bell_ et _Bull_ avait leur siège. 
+| Machine    | Année           |  Microprocesseur /Coproc |Vitesse (hz) | architecture |  
+|:-------------|:----------------|:------------------------------|:-------------|:------------|
+| Cray 1       | 1976            | 64 bits                           | 83 M        | vectorielle
+| Next Cube | 1988 a 1993  | 68030..40 +68882           |25G            |RISC (Big-indian)
+| Sparc         | 1987 a 1992  |       Sun         | 14.8 -40   |               | RISC
+
+
+A Angers dans le Maine-et-Loire, ou _Packard Bell_ et _Bull_ avait leur siège. 
 Maintenant c'est des Terra-Flops et beaucoup d'énergie necessaires a toute cette démesure. C'est aussi un choix politique d'avoir un fleuron dans le soutient a l'IA , perso on est pas  obligés de faire comme les super-puissances et aller dans des plans couteux mais collaborer avec les pays pour améliorer la santé et toujours garder a l'esprit l'équité et la souveraineté. 
  
 https://www.ouest-france.fr/economie/entreprises/les-supercalculateurs-les-plus-puissants-deurope-sont-fabriques-a-angers-voici-comment-0f55d4c8-f14c-11f0-977d-9ddad21d78c7 
