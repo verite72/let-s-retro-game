@@ -13,25 +13,23 @@ J’ai testé  BATOCERA . C est une station d’émulation, qui est configuré s
 - on lance et on met a jour une fois le wifi configuré et connecté, ca prend quelques minutes a quelques heures selon les mises a jour (partielles, completes)
 - on ajoute des ROMS de la machine(s) qui ont chacun un copyright , il faut les TELECHARGER SUR LES SITES DES FOURNISSEURS ou verifier leur source ou leur authenticité (clé md5sum) 
 
-- on peut configurer la console ou le jeux en particulier ( pour configurer le joystick )
-
+- on peut configurer la console ou le jeux en particulier ( pour configurer le joystick ) 
 
 
 
  
- La puissance des ordis d’aujourd’hui ,par rapport aux
-Ordinosaures (moins puissants )fait que on ne voit pas
-la différence  entre le jeu d’origine et celui que l’on lance en
-émulation. 
+ Les ordis d’aujourd’hui ,par rapport aux Anciens des années 80s (puissance  en ram et processeurs)fait que on ne voit pas
+la différence en émulation mise a part des pb. de compatibilité et de portage lié a chaque configuration et jeux, ex: un A500 avec 512 chip+512 Slow sera compatible avec le plus de jeux, mais moins pour les logiciels et utilitaires.  
 
 *Je laisse de coté les jeux dans les jeux avec les scores a battre , avec les resultats en ligne, c'est la course a qui a le plus gros score, c'est pas mon kiffe
 
 plus des classiques comme Mario , Prince of Persia
-Donc simplement jouer  meme s il y a la possibilité de jouer connecter en ligne, ce n'est pas mon kiffe , perso,je prefere aller sur des forums a d'autres moments 
+Donc simplement jouer  meme s il y a la possibilité de jouer aux succes Rétro.
+
  
 Jouer aux jeux de plateaux , de réflexion et meme aux jeux massifs en réseaux . soin du détail avec les bezels et les écrans format 4/3 qui donnent des images 'comme a l'époque'. 
 
 
 
 Vous pourrez ainsi découvrir les ordinateurs et aborder les 
-questions techniques des ordinateurs des années 80. qui avaient une longueur d'avance sur Les Pc car il y avait de la concurrence entre les constructeurs, comme l'Archimede. 
+questions techniques des ordinateurs des années 80. qui avaient une longueur d'avance sur Les Pc car il y avait de la concurrence entre les constructeurs, comme l'Archimede avec l'Amiga... 
